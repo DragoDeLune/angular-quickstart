@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5597df46-db39-4d55-8b24-e20c9a688ea2/deploy-status)](https://app.netlify.com/sites/recettestrepanier/deploys)
 # Angular on Netlify Quick Start Template    
 ![netlify + angular logo](https://user-images.githubusercontent.com/43764894/223549637-2715c89d-a44e-42e0-8f6c-fa6246279658.png)
 
